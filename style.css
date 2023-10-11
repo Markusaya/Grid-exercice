@@ -1,0 +1,68 @@
+.container {  display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 80px 80px 80px;
+    gap: 10px; 
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    background: linear-gradient(#558ABB, #335aBB);
+  }
+  
+  .container p{
+    
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    text-shadow: 2px 2px #558ABB;
+  }
+  
+  .css { 
+    color: aliceblue;
+    background-color: rgb(207, 77, 77);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+   }
+  
+  .grid {
+    color: aliceblue;
+    background-color: rgb(237, 164, 119);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+    }
+  
+  .c-est {
+    color: aliceblue;
+    background-color: rgb(199, 145, 28); 
+    box-shadow: 5px 5px rgb(52, 51, 53);
+   }
+  
+  .vraiment {
+    color: aliceblue;
+    background-color: rgb(198, 223, 123); 
+    box-shadow: 5px 5px rgb(52, 51, 53);
+     }
+  
+  .trop { color: aliceblue;
+    background-color: rgb(91, 230, 146);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+    }
+  
+  .bien { color: aliceblue;
+    background-color: rgb(83, 216, 185);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+    }
+  
+  .et { color: aliceblue;
+    background-color: rgb(8, 244, 181);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+    }
+  
+  .flex { color: aliceblue;
+    background-color: rgb(33, 178, 236);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+   }
+  
+  .aussi { color: aliceblue;
+    background-color: rgb(108, 103, 137);
+    box-shadow: 5px 5px rgb(52, 51, 53);
+   }
+  
